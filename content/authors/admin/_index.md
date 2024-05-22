@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jiadong ZHU
+title: Jiadong Zhu
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Jiadong
-last_name: ZHU
+last_name: Zhu
 
 # Status emoji
-status:
-  icon: 💻
+#status:
+#  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -184,4 +184,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a second-year M.Phil. student at the Microelectronics Thrust of The Hong Kong University of Science and Technology (Guangzhou) under the supervision of Prof. Yuzhe Ma. Previously, I received my B.Eng. from Shanghai University (SHU) in 2018.
+
