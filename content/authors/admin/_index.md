@@ -98,7 +98,7 @@ work:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Engineering Intern
     company_name: SAIC Motor Passenger Vehicle Co., Ltd.
-    company_url: ''
+    company_url: 'https://www.saicmotor.com/'
     company_logo: custom/saic
     date_start: 2021-08-01
     date_end: 2021-10-31
