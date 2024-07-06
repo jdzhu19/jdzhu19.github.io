@@ -88,7 +88,7 @@ work:
   - position: Engineering Intern
     company_name: Festo (China) Ltd.
     company_url: ''
-    company_logo: 'custom/festo'
+    company_logo: custom/festo
     date_start: 2021-12-01
     date_end: 2022-05-31
     #summary: |2-
@@ -99,7 +99,7 @@ work:
   - position: Engineering Intern
     company_name: SAIC Motor Passenger Vehicle Co., Ltd.
     company_url: ''
-    company_logo: 'custom/saic'
+    company_logo: custom/saic
     date_start: 2021-08-01
     date_end: 2021-10-31
     #summary: |
@@ -110,7 +110,7 @@ work:
   - position: Engineering Intern
     company_name: Shanghai Automation Instrumentation Co., Ltd.
     company_url: ''
-    company_logo: 'custom/sai'
+    company_logo: custom/sai
     date_start: 2021-07-01
     date_end: 2021-08-31
     #summary: |2-
@@ -121,7 +121,7 @@ work:
   - position: Engineering Intern
     company_name: Shanghai Automation Instrumentation Co., Ltd.
     company_url: ''
-    company_logo: 'custom/sai'
+    company_logo: custom/sai
     date_start: 2020-07-01
     date_end: 2020-09-30
     #summary: |2-
