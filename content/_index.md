@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "5rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -30,9 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
   #- block: markdown
   #  content:
   #    title: '🔬 My Research'
@@ -53,9 +50,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
   - block: collection
     content:
       title: 📚 Recent Publications
@@ -66,9 +60,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
   - block: collection
     id: talks
     content:
@@ -79,9 +70,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-      spacing:
-        # Customize the section spacing. Order is top, right, bottom, left.
-        padding: ['20px', '0', '20px', '0']
   - block: collection
     id: news
     content:
