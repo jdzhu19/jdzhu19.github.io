@@ -123,7 +123,7 @@ work:
     company_url: ''
     company_logo: 'custom/sai'
     date_start: 2020-07-01
-    date_end: 2020-09-31
+    date_end: 2020-09-30
     #summary: |2-
     #  Responsibilities include:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
