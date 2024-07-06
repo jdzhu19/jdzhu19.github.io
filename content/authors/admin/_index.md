@@ -220,4 +220,4 @@ awards:
 
 ## About Me
 
-I have successfully completed my M.Phil. at the Microelectronics Thrust of The Hong Kong University of Science and Technology (Guangzhou) under the supervision of Prof. Yuzhe Ma. Prior to this, I earned my B.Eng. from Shanghai University (SHU) in 2022. Looking ahead, I am planning to pursue a Ph.D. starting in Spring 2025 under the supervision of Prof. Yuzhe Ma.
+I have successfully completed my M.Phil. at the [Microelectronics](https://funh.hkust-gz.edu.cn/academics/microelectronics/about-the-thrust/) Thrust of [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) under the supervision of [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/). Prior to this, I earned my B.Eng. from [Shanghai University (SHU)](https://www.shu.edu.cn/) in 2022. Looking ahead, I am preparing to pursue a Ph.D. starting in Spring 2025, once again under the supervision of [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/).
