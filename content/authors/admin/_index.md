@@ -181,14 +181,14 @@ awards:
     #url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2022-09-01'
     awarder: HKUST(GZ)
-    icon: "custom/hkust_blue"
+    icon: hkust_blue
     #summary: |
       #I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
   - title: First-Class Academic Scholarship
     #url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2021-12-01'
     awarder: SHU
-    icon: "custom/shu"
+    icon: shu
     #summary: |
     #  Learned:
     #  - Synthesize your own blockchain solutions
@@ -199,7 +199,7 @@ awards:
     #certificate_url: https://www.datacamp.com
     date: '2020-12-01'
     awarder: SHU
-    icon: "custom/shu"
+    icon: shu
     #summary: |
       #Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
   - title: Self-Discipline Scholarship
@@ -207,7 +207,7 @@ awards:
     #certificate_url: https://www.datacamp.com
     date: '2020-12-20'
     awarder: SHU
-    icon: "custom/shu"
+    icon: shu
     #summary: |
     #  Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
   - title: China International College Students' "Internet+" Innovation and Entrepreneurship Competition Second Prize
@@ -215,7 +215,7 @@ awards:
     #certificate_url: https://www.datacamp.com
     date: '2020-09-16'
     awarder: SHU
-    icon: "custom/shu"
+    icon: shu
 ---
 
 ## About Me
