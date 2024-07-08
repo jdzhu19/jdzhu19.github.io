@@ -1,9 +1,12 @@
 ---
 title: "RL-MUL 2.0: Multiplier Design Optimization with Parallel Deep Reinforcement Learning"
 authors:
-  - Dongsheng Zuo*
-  - Jiadong Zhu*
+  - Dongsheng Zuo
+  - admin
   - Yuzhe Ma
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: "2024-03-31T00:00:00Z"
 doi: ""
 
