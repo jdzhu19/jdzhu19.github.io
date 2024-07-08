@@ -16,11 +16,11 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2024-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -60,10 +60,10 @@ url_pdf: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
