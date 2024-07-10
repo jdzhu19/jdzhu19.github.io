@@ -61,7 +61,7 @@ sections:
     design:
       view: citation
   #- block: collection
-  #  id: talks
+  #  id: presentations
   #  content:
   #    title: 🎙️ Presentations
   #    filters:
