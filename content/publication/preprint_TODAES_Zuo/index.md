@@ -34,7 +34,7 @@ tags:
   - Reinforcement Learning
   - Multiply Accumulate
 
-featured: true
+featured: False
 
 links:
 - name: arXiv link
