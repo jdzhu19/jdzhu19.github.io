@@ -47,10 +47,10 @@ profiles:
     url: https://orcid.org/0009-0001-6935-6107
 
 interests:
-  - FPGA architecture
-  - ML Accelerator
   - Artificial intelligence for chip design
-  - Electronic Design Automation (EDA)
+  - Electronic design automation (EDA)
+  - FPGA architecture
+  - ML accelerator
 
 education:
   - area: M.Phil. Microelectronic
@@ -85,6 +85,12 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: Research Assistant
+    company_name: HKUST(GZ)
+    company_url: ''
+    company_logo: hkust
+    date_start: 2024-09-01
+    date_end: 2025-01-31
   - position: Engineering Intern
     company_name: Festo (China) Ltd.
     company_url: ''
