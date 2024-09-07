@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/0009-0001-6935-6107
 
 interests:
-  - Artificial intelligence for chip design
+  - AI for chip design
   - Electronic design automation (EDA)
   - FPGA architecture
   - ML accelerator
