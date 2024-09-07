@@ -22,4 +22,4 @@ tags:
 <!-- ## Congratulations to myself! -->
 Congratulations to myself! 🎉
 
-Continue to work hard afterwards. 🧑‍💻️
+Keep working hard and move forward. 🧑‍💻️
