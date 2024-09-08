@@ -1,7 +1,7 @@
 ---
 title: 🎉 One paper accepted by ASP-DAC 2025!
 summary: "Our work \"A Holistic FPGA Architecture Exploration Framework for Deep Learning Acceleration\" has been accepted by ASP-DAC 2025!"
-date: 2024-09-08
+date: 2024-09-02
 
 authors:
   - admin
