@@ -1,5 +1,5 @@
 ---
-title: 🎉 I successfully passed the M.Phil. thesis examination!
+title: 🎉 I have successfully passed the M.Phil. thesis examination!
 summary: Congratulations to myself!
 date: 2024-07-03
 
