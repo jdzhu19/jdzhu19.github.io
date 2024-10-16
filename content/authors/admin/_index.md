@@ -54,11 +54,11 @@ interests:
 
 education:
   - area: Ph.D. Microelectronic
-    institution: The Hong Kong University of Science and Technology (Guangzhou)
+    institution: HKUST(GZ)
     date_start: 2025-02-01
     date_end: 2028-08-31
   - area: M.Phil. Microelectronic
-    institution: The Hong Kong University of Science and Technology (Guangzhou)
+    institution: HKUST(GZ)
     date_start: 2022-09-01
     date_end: 2024-08-31
     #summary: |
@@ -78,7 +78,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Eng. Electrical Engineering and Automation
-    institution: Shanghai University
+    institution: SHU
     date_start: 2018-09-01
     date_end: 2022-07-31
     #summary: |
