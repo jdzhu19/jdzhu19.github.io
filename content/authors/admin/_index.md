@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: M.Phil.
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -53,10 +53,14 @@ interests:
   - ML accelerator
 
 education:
+  - area: Ph.D. Microelectronic
+    institution: The Hong Kong University of Science and Technology (Guangzhou)
+    date_start: 2025-02-01
+    date_end: 2028-08-31
   - area: M.Phil. Microelectronic
     institution: The Hong Kong University of Science and Technology (Guangzhou)
     date_start: 2022-09-01
-    date_end: 2024-07-31
+    date_end: 2024-08-31
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -183,6 +187,11 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: PhD Full Postgraduate Studentship
+    #url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2025-02-01'
+    awarder: HKUST(GZ)
+    icon: award #hkust_blue
   - title: MPhil Full Postgraduate Studentship
     #url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2022-09-01'
@@ -226,4 +235,4 @@ awards:
 
 ## About Me
 
-I have successfully completed my M.Phil. at the [Microelectronics](https://funh.hkust-gz.edu.cn/academics/microelectronics/about-the-thrust/) Thrust of [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) under the supervision of [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/). Prior to this, I earned my B.Eng. from [Shanghai University (SHU)](https://www.shu.edu.cn/) in 2022. Looking ahead, I am preparing to pursue a Ph.D. starting in Spring 2025, once again under the supervision of [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/).
+I am a Ph.D. student at the [Microelectronics](https://funh.hkust-gz.edu.cn/academics/microelectronics/about-the-thrust/) Thrust of [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/). Previously, I earned my M.Phil. degree from The Hong Kong University of Science and Technology (Guangzhou) in 2024 and my B.Eng. degree from Shanghai University in 2022.
