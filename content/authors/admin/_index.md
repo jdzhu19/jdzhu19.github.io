@@ -50,7 +50,7 @@ interests:
   - AI for chip design
   - Electronic design automation (EDA)
   - FPGA architecture
-  - ML accelerator
+  - Chiplet
 
 education:
   - area: Ph.D. Microelectronic
