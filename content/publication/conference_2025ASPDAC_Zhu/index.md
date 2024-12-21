@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 publication: In *2025 IEEE/ACM Asian and South Pacific Design Automation Conference (ASPDAC)*
 publication_short: In *ASP-DAC 2025*
 
-#abstract: Multipliers and multiply-accumulators (MACs) are critical arithmetic circuit components in the modern era. As essential components of AI accelerators, they significantly influence the area and performance of compute-intensive circuits. This paper presents UFO-MAC, a unified framework for the optimization of multipliers and MACs. Specifically, UFO-MAC employs an optimal compressor tree structure and utilizes Integer Linear Programming (ILP) to refine the stage assignment and interconnection order of the compressors. Additionally, it explicitly exploits the non-uniform arrival time profile of the carry propagate adder (CPA) within multipliers to achieve targeted optimization. Moreover, the framework also supports the optimization of fused MAC architectures. Experimental results demonstrate that multipliers and MACs optimized by UFO-MAC Pareto dominate state-of-the-art baselines and commercial IP libraries. The performance gain of UFO-MAC is further validated through the implementation of multipliers and MACs within functional modules, underlining its efficacy in real scenarios.
+#abstract: 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
