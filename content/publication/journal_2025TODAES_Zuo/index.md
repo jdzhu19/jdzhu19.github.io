@@ -19,8 +19,8 @@ publishDate: "2024-12-13T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: *ACM Transactions on Design Automation of Electronic Systems (TODAES)*
-publication_short: *TODAES*
+publication: "*ACM Transactions on Design Automation of Electronic Systems (TODAES)*"
+publication_short: "*TODAES*"
 
 #abstract: 
 
