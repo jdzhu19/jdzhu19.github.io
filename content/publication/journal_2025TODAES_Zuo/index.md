@@ -1,5 +1,5 @@
 ---
-title: "RL-MUL 2.0: Multiplier Design Optimization with Parallel Deep Reinforcement Learning"
+title: "RL-MUL 2.0: Multiplier Design Optimization with Parallel Deep Reinforcement Learning and Space Reduction"
 authors:
   - Dongsheng Zuo
   - admin
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://arxiv.org/pdf/2404.00639
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
