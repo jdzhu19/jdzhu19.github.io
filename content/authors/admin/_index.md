@@ -53,11 +53,11 @@ interests:
   - Chiplet
 
 education:
-  - area: Ph.D. Microelectronic
+  - area: Ph.D. Microelectronics
     institution: HKUST(GZ)
     date_start: 2025-02-01
     date_end: 2028-08-31
-  - area: M.Phil. Microelectronic
+  - area: M.Phil. Microelectronics
     institution: HKUST(GZ)
     date_start: 2022-09-01
     date_end: 2024-08-31
