@@ -1,5 +1,5 @@
 ---
-title: 'A Holistic FPGA Architecture Exploration Framework for Deep Learning Acceleration'
+title: 'Efficient Continuous Logic Optimization with Diffusion Model'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
