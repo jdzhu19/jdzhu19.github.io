@@ -235,4 +235,4 @@ awards:
 
 ## About Me
 
-I am a Ph.D. student at the [Microelectronics](https://funh.hkust-gz.edu.cn/academics/microelectronics/about-the-thrust/) Thrust of [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/). Previously, I earned my M.Phil. degree from The Hong Kong University of Science and Technology (Guangzhou) in 2024 and my B.Eng. degree from Shanghai University in 2022.
+I am a Ph.D. student at the [Microelectronics Thrust](https://funh.hkust-gz.edu.cn/academics/microelectronics/about-the-thrust/) of [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/). Previously, I earned my M.Phil. degree from The Hong Kong University of Science and Technology (Guangzhou) in 2024 and my B.Eng. degree from Shanghai University in 2022.
