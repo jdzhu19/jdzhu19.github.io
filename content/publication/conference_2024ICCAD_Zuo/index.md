@@ -12,9 +12,6 @@ authors:
   #- Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 date: '2024-06-26T00:00:00Z'
 doi: ''

@@ -10,8 +10,8 @@ first_name: Jiadong
 last_name: Zhu
 
 # Status emoji
-status:
-  icon: 💻
+#status:
+#  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
