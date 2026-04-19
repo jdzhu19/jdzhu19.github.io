@@ -1,0 +1,14 @@
+/* Custom Hugo Blox color theme: MY CYAN */
+:root {
+  --color-primary-50: 239 251 254;
+  --color-primary-100: 216 243 252;
+  --color-primary-200: 180 229 246;
+  --color-primary-300: 126 208 238;
+  --color-primary-400: 66 178 222;
+  --color-primary-500: 35 149 200;
+  --color-primary-600: 28 129 178;
+  --color-primary-700: 26 104 146;
+  --color-primary-800: 26 84 118;
+  --color-primary-900: 24 69 97;
+  --color-primary-950: 12 45 66;
+}

@@ -1,0 +1,27 @@
+{{ $name := partial "functions/get_brand_logo_name" . }}
+{{ $alt := "" }}
+{{ $imgClass := "max-w-5 max-h-5 w-auto h-auto object-contain" }}
+{{ $iconClass := "w-5 h-5 text-primary-800 dark:text-primary-300" }}
+
+{{ if reflect.IsMap . }}
+  {{ $alt = .alt | default "" }}
+  {{ $imgClass = .img_class | default $imgClass }}
+  {{ $iconClass = .icon_class | default $iconClass }}
+{{ end }}
+
+{{ $scratch := newScratch }}
+{{ range slice "svg" "png" "jpg" "jpeg" "webp" }}
+  {{ if not ($scratch.Get "logo") }}
+    {{ with resources.Get (printf "media/icons/brands/%s.%s" $name .) }}
+      {{ $scratch.Set "logo" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ with ($scratch.Get "logo") }}
+  <img src="{{ .RelPermalink }}" alt="{{ $alt }}" class="{{ $imgClass }}" loading="lazy">
+{{ else }}
+  {{ if $name }}
+  {{ partial "functions/get_icon" (dict "name" $name "pack" "brands" "attributes" (printf "class='%s'" $iconClass)) }}
+  {{ end }}
+{{ end }}

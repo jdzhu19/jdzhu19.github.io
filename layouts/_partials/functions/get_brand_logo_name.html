@@ -1,0 +1,15 @@
+{{- $raw := . -}}
+{{- if reflect.IsMap . -}}
+  {{- $raw = .name -}}
+{{- end -}}
+
+{{- $value := $raw | default "" -}}
+{{- $normalized := lower (trim $value " ") -}}
+
+{{- if eq $normalized "hkust(gz)" -}}
+  hkust
+{{- else if eq $normalized "shu" -}}
+  shu
+{{- else -}}
+  {{- $value -}}
+{{- end -}}

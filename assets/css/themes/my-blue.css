@@ -1,0 +1,14 @@
+/* Custom Hugo Blox color theme: MY BLUE */
+:root {
+  --color-primary-50: 242 247 253;
+  --color-primary-100: 225 236 249;
+  --color-primary-200: 194 214 240;
+  --color-primary-300: 148 183 226;
+  --color-primary-400: 97 144 205;
+  --color-primary-500: 63 115 188;
+  --color-primary-600: 47 112 177;
+  --color-primary-700: 38 92 147;
+  --color-primary-800: 31 74 119;
+  --color-primary-900: 25 59 95;
+  --color-primary-950: 16 39 63;
+}
